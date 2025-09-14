@@ -9,7 +9,9 @@ Credit card fraud is a significant problem, with billions of dollars lost each y
 
 ## Overview
 
-Credit card fraud continues to escalate globally, particularly as online and digital payments grow more common. According to the **Federal Trade Commission (FTC)**, consumers reported more than **US $12.5 billion** in losses due to fraud in 2024 — a ~25% increase from 2023. ([ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024?utm_source=chatgpt.com)) Identity theft, especially involving credit card fraud (both opening new accounts and misuse of existing ones), remains among the most reported fraud types, with **~449,000 credit card identity theft cases** in the U.S. in 2024. ([lifelock.norton.com](https://lifelock.norton.com/learn/credit-finance/credit-card-fraud-statistics?srsltid=AfmBOoqZNz8YJaWsb4BTMSrPLol-rfWwlNPGHe9rGngekGY7uzB6eiHI&utm_source=chatgpt.com))
+Credit card fraud continues to escalate globally, particularly as online and digital payments grow more common. According to the **Federal Trade Commission (FTC)**, consumers reported more than **US $12.5 billion** in losses due to fraud in 2024 — a ~25% increase from 2023. ([ftc.gov](https://www.ftc.gov/news-events/news/press-releases/2025/03/new-ftc-data-show-big-jump-reported-losses-fraud-125-billion-2024?utm_source=chatgpt.com))  
+
+Identity theft, especially involving credit card fraud (both opening new accounts and misuse of existing ones), remains among the most reported fraud types, with **~449,000 credit card identity theft cases** in the U.S. in 2024. ([lifelock.norton.com](https://lifelock.norton.com/learn/credit-finance/credit-card-fraud-statistics?srsltid=AfmBOoqZNz8YJaWsb4BTMSrPLol-rfWwlNPGHe9rGngekGY7uzB6eiHI&utm_source=chatgpt.com))  
 
 There are multiple types of credit card fraud:  
 1. **New account fraud** – when someone opens a credit account using stolen or synthetic identities.  
@@ -50,15 +52,18 @@ The dataset was retrieved from Kaggle:
 ## Installation & Requirements
 
 **Requirements:**
-- Python 3.8+
-- Jupyter Notebook / Google Colab
+- Python 3.8+  
+- Jupyter Notebook / Google Colab  
 - Libraries: pandas, numpy, matplotlib, seaborn, scikit-learn  
 
 Install dependencies:
 ```bash
 pip install -r requirements.txt
 
+--
 ## Acknowledgment
 
-This project was inspired by open-source work from **Md. Shakil Hossain** and has been modified and extended by **Khushi Vasava**.  
-Special thanks to the open-source community for providing resources and datasets that made this project possible.
+This project draws inspiration from the open-source work of **Md. Shakil Hossain**.  
+It has been further modified, refined, and extended by **Khushi Vasava** to enhance its functionality and presentation.  
+
+Special thanks to the open-source community and Kaggle for providing valuable resources and datasets that made this project possible.
