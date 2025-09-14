@@ -60,7 +60,8 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
---
+---
+
 ## Acknowledgment
 
 This project draws inspiration from the open-source work of **Md. Shakil Hossain**.  
