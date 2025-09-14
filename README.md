@@ -60,11 +60,3 @@ Install dependencies:
 ```bash
 pip install -r requirements.txt
 
----
-
-## Acknowledgment
-
-This project draws inspiration from the open-source work of **Md. Shakil Hossain**.  
-It has been further modified, refined, and extended by **Khushi Vasava** to enhance its functionality and presentation.  
-
-Special thanks to the open-source community and Kaggle for providing valuable resources and datasets that made this project possible.
