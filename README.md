@@ -57,3 +57,8 @@ The dataset was retrieved from Kaggle:
 Install dependencies:
 ```bash
 pip install -r requirements.txt
+
+## Acknowledgment
+
+This project was inspired by open-source work from **Md. Shakil Hossain** and has been modified and extended by **Khushi Vasava**.  
+Special thanks to the open-source community for providing resources and datasets that made this project possible.
